@@ -4,5 +4,5 @@ Ajustar o projeto "É Feriado", para que exista apenas uma view.  Esta deve busc
 
 Super usuário criado, segue usuário e senha abaixo: 
 
-user= admin
+user= admin <br>
 senha= admin
